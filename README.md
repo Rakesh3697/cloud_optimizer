@@ -112,5 +112,5 @@ B.Tech AI & Data Science
 Passionate about Full-Stack, Cloud, and GenAI-powered solutions  
 📫 Email: rakeshthangaraj89@gmail.com
 
-🪪 License
+🪪 License  
 This project is licensed under the MIT License 
