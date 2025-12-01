@@ -100,13 +100,13 @@ npm run build
 ```
 ### 💡 Future Enhancements  
 
-🧮 Real-time pricing API integration (Infracost / AWS Pricing API)
-📈 Cost visualization charts
-🔐 Login system & saved configurations
-💾 Export as PDF / CSV
-🤖 AI-powered optimization suggestions
+🧮 Real-time pricing API integration (Infracost / AWS Pricing API)  
+📈 Cost visualization charts  
+🔐 Login system & saved configurations  
+💾 Export as PDF / CSV  
+🤖 AI-powered optimization suggestions  
 
-###👨‍💻 Author
+### 👨‍💻 Author   
 Rakesh T 
 B.Tech AI & Data Science
 Passionate about Full-Stack, Cloud, and GenAI-powered solutions
