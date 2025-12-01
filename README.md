@@ -68,18 +68,18 @@ http://localhost:8080/api
 📁 Folder Structure
 ```
 cloud-cost-comparator-frontend/
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── utils/
-│   ├── assets/
-│   ├── styles/
-│   │   └── custom.css
-│   ├── App.jsx
-│   └── main.jsx
-├── package.json
-└── vite.config.js
+├── public/  
+├── src/  
+│   ├── components/  
+│   ├── pages/  
+│   ├── utils/  
+│   ├── assets/  
+│   ├── styles/  
+│   │   └── custom.css  
+│   ├── App.jsx  
+│   └── main.jsx  
+├── package.json  
+└── vite.config.js  
 
 ```
 ⚙️ Install Frontend Dependencies
