@@ -107,10 +107,9 @@ npm run build
 🤖 AI-powered optimization suggestions  
 
 ### 👨‍💻 Author   
-Rakesh T 
-B.Tech AI & Data Science
-Passionate about Full-Stack, Cloud, and GenAI-powered solutions
-
+Rakesh T   
+B.Tech AI & Data Science  
+Passionate about Full-Stack, Cloud, and GenAI-powered solutions  
 📫 Email: rakeshthangaraj89@gmail.com
 
 🪪 License
