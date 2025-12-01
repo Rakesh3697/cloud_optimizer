@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CloudcosrApplication<cloudcosr>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cloudcost.CloudcosrApplication",
+            "projectName": "cloudcosr",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
